@@ -1,0 +1,96 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+
+}
+.hello{
+    font-weight: 700;
+}
+h1{
+    font-size: 50px;
+
+}
+
+.name-highlight{
+    color: Brown; 
+
+}
+.half-width{
+    padding-top: 50px;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;15px;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,Lightgreen,limegreen);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    padding-top: 5px;
+}
+.biography-area{
+    background-image: url("image/p b5.png");
+    background-repeat: no-repeat;
+}
+.text-area{
+    text-align: center;
+}
+.lateast-area{
+    background-image: url("image/p b6.png");
+    background-repeat: no-repeat;
+}
+.work-photo{
+    width: 30%;
+    display: flex;
+    padding-left: 40px;
+    padding-top: 50px;
+    
+}
+.work-photo img{
+    width: 100%;
+    padding-left: 15px;
+    box-shadow: 5px 5px  20px rgb(192, 186, 186);
+    border-radius: 5px;
+}
+.Last-area{
+    background-image:  rgb(192, 186, 186);
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.lasttext-area{
+    color: gray;
+}
+.Last-areatwo{
+    padding-top: 50px;
+    font-weight: 500;
+}
+.last-button{
+	color: transparent rgb(255, 0, 157);
+	text-decoration: none;
+	background-image:linear-gradient(45deg,Lightgreen,limegreen);
+    padding: 40px 80px;
+    border-radius: 5px;
+    color: white;
+    padding-top: 45px;	
+}
+.footer-area{
+	padding-bottom: 50px;
+}
+.mainfooter-area{
+	 height:  50px;
+    background-color:gray;
+    text-align: center;
+}
